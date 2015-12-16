@@ -1,2 +1,2 @@
 # financial-staff
-Projeto para finanças pessoais.
+Projeto para finanças pessoais!
